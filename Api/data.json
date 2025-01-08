@@ -1,0 +1,113 @@
+{
+  "userapi": [
+    {
+      "id": "bc34",
+      "type": "USER",
+      "fname": "vicky kumar",
+      "mobile": "09065566629",
+      "email": "vickyray115@gmail.com",
+      "password": "1234",
+      "dob": "1998-05-08",
+      "education": "Mca",
+      "state": "Bihar",
+      "city": "Vaishali",
+      "address": "VILL-BARANTI POST OFFICE-BIDUPUR (R.S) POLICE STATION-RAJAPAKAR DIST-VAISHALI"
+    },
+    {
+      "fname": "vicky",
+      "mobile": "1232",
+      "email": "v@gmail.com",
+      "state": "bangalore",
+      "city": "bangalore",
+      "address": "marathalli , Bangalore",
+      "dob": "2001-01-21",
+      "education": "Mca",
+      "password": "1234",
+      "type": "COMPANY",
+      "id": "cf36"
+    },
+    {
+      "id": "6afc",
+      "type": "COMPANY",
+      "fname": "Ray",
+      "mobile": "34343",
+      "email": "ray@gmail.com",
+      "password": "1234",
+      "dob": "2024-12-21",
+      "education": "Mca",
+      "state": "Bihar",
+      "city": "Bihar",
+      "address": "jbvjhfjb "
+    },
+    {
+      "id": "2288",
+      "fname": "rahul",
+      "mobile": "89090909009",
+      "email": "rahul@gmail.com",
+      "password": "1234",
+      "dob": "2024-12-25",
+      "education": "Mca",
+      "state": "Bangalore",
+      "city": "Bangalore",
+      "address": "Marathalli ",
+      "type": "COMPANY"
+    }
+  ],
+  "contactapi": [],
+  "jobapi": [
+    {
+      "id": "eab5",
+      "jobtitle": "Ui Development",
+      "exp": "0-5 Years",
+      "city": "Bangalore",
+      "salary": "1000000",
+      "jd": "A UI developer, or User Interface developer, creates user-friendly software by writing computer code. Their job description includes: \nDesigning UIs: Deciding how the user interface (UI) will look and feel \nResearching users: Studying how users interact with the technology to improve system operability \nCreating prototypes: Building wireframes and prototypes to test usability \nIterating designs: Optimizing designs to improve user satisfaction \nTesting programs: Ensuring that the finished programs are user-friendly \nCollaborating with designers: Working with UI designers to create a coherent and visually appealing UI \nUI developers should have strong time management skills, and be able to prioritize responsibilities. They should also have a good understanding of HTML, JavaScript, and CSS. \nSuccess in a UI developer role is demonstrated by improving user experience scores and the ease of use of applications. \nUI Developer Job Description: Top Duties and Requirements - Indeed\nA UI Developer, or User Interface Developer, writes computer code to design and create user-friendly software. Their duties includ...\n\nIndeed\nUI Developer Job Description Template - Comeet\nIn the UI developer role, you will work with UI designers to achieve an interactive, coherent, and visually appealing UI design. A...\n\nComeet\nUX Developer Job Descriptions for Hiring Managers and HR\nThey research user needs, create prototypes and wireframes, test usability, and iterate designs to optimize user satisfaction. UX ...",
+      "skill": "HTML, CSS, JavaScript, Bootstrap, Node Js, Reactjs",
+      "companyid": "cf36",
+      "companyname": "vicky"
+    },
+    {
+      "id": "c1e3",
+      "jobtitle": "Java Developer",
+      "exp": "0-5",
+      "city": "Bangalore",
+      "salary": "800000",
+      "jd": "Designing Java applications and programs\nWriting well-written, efficient, scalable, and reusable code\nTesting completed software and debugging as necessary\nExamining existing code and recommending patches, design overhauls, or fixes for broken code\nWorking with product managers and designers\nIdentifying opportunities to improve existing Java code",
+      "skill": "Proficiency in Java, including object-oriented programming, concurrency patterns, and MVC, JDBC, and RESTful concepts. They should also be familiar with Java GUI frameworks and popular web application frameworks.",
+      "companyid": "cf36",
+      "companyname": "vicky"
+    }
+  ],
+  "applyapi": [
+    {
+      "id": "bc34",
+      "type": "USER",
+      "fname": "vicky kumar",
+      "mobile": "09065566629",
+      "email": "vickyray115@gmail.com",
+      "password": "1234",
+      "dob": "1998-05-08",
+      "education": "Mca",
+      "state": "Bihar",
+      "city": "Vaishali",
+      "address": "VILL-BARANTI POST OFFICE-BIDUPUR (R.S) POLICE STATION-RAJAPAKAR DIST-VAISHALI",
+      "jobid": "eab5",
+      "companyid": "cf36"
+    },
+    {
+      "id": "bc34",
+      "type": "USER",
+      "fname": "vicky kumar",
+      "mobile": "09065566629",
+      "email": "vickyray115@gmail.com",
+      "password": "1234",
+      "dob": "1998-05-08",
+      "education": "Mca",
+      "state": "Bihar",
+      "city": "Vaishali",
+      "address": "VILL-BARANTI POST OFFICE-BIDUPUR (R.S) POLICE STATION-RAJAPAKAR DIST-VAISHALI",
+      "jobid": "ced3",
+      "companyid": "cf36"
+    }
+  ]
+}
